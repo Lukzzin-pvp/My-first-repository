@@ -1,0 +1,27 @@
+body{
+    background:linear-gradient(to left, rgb(39, 67, 227), rgb(138, 197, 249), aliceblue)
+}
+.p2{
+    font-size: 120%;
+    color: rgb(14, 31, 212);
+    padding:10px
+}
+.p1{
+    font-size: 120%;
+    color: rgb(31, 36, 97);
+}
+p{
+    text-align: justify;
+}
+header{
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 15px ;
+    
+}
+.paragrafo{
+    
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 15px ;
+}
